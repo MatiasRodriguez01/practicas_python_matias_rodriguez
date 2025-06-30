@@ -1,0 +1,5 @@
+# Implementar una función recursiva que calcule el factorial de un número entero positivo.
+
+pista: 
+La función se llama a sí misma disminuyendo el número en 1 hasta llegar a 1, donde 
+termina la recursión.

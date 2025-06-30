@@ -1,0 +1,4 @@
+# - Resolver recursivamente el clásico problema de las Torres de Hanoi.
+
+pista:
+Mover n-1 discos a un auxiliar, el disco mayor a destino y luego mover n-1.

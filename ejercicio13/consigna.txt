@@ -1,0 +1,4 @@
+# - Convertir recursivamente un número decimal en su equivalente binario.
+
+pista:
+Dividir por 2 y concatenar el resto.

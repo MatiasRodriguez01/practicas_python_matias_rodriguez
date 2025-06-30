@@ -1,0 +1,4 @@
+# - Contar recursivamente cuántos dígitos tiene un número entero positivo.
+
+pista:
+Dividir el número entre 10 en cada llamada, hasta llegar a 0.

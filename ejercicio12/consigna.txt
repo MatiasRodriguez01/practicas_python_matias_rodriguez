@@ -1,0 +1,4 @@
+# - Realizar la multiplicación de dos números enteros mediante sumas sucesivas recursivas.
+
+pista:
+Sumar a a sí mismo b veces.

@@ -1,0 +1,4 @@
+# - Comprobar recursivamente si una palabra se lee igual al derecho y al revés.
+
+pista:
+Comparar el primer y último carácter, luego llamar con el resto.

@@ -1,0 +1,4 @@
+# - Sumar recursivamente los dígitos de un número.
+
+pista:
+Sumar el último dígito y llamar con el número sin ese dígito.

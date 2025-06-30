@@ -1,0 +1,4 @@
+# - Usar el algoritmo de Euclides recursivo para calcular el MCD de dos números.
+
+pista:
+Se reemplaza a por b y b por a % b hasta que b sea 0.

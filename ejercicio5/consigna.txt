@@ -1,0 +1,4 @@
+# - Crear una función recursiva que devuelva el n-ésimo número de Fibonacci.
+
+pista:
+Cada término es la suma de los dos anteriores, salvo los primeros dos

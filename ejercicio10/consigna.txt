@@ -1,0 +1,4 @@
+# - Crear una función recursiva para invertir una cadena.
+
+pista:
+Se toma el último carácter y se concatena con la inversión del resto.

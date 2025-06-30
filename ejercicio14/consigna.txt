@@ -1,0 +1,4 @@
+# - Contar recursivamente cuántas veces aparece un carácter en una cadena.
+
+pista:
+Se compara el primer carácter y se suma si coincide.

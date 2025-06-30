@@ -1,0 +1,4 @@
+# - Contar cuántas vocales hay en una cadena recursivamente.
+
+pista:
+Revisar la primera letra y sumar si es vocal, luego llamar con el resto

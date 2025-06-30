@@ -1,0 +1,4 @@
+# - Sumar los elementos de una lista de números usando recursividad.
+
+pista:
+Se suma el primer elemento con la suma de los siguientes.

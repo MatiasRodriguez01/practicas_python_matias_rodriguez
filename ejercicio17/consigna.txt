@@ -1,0 +1,4 @@
+# - Listar recursivamente todas las combinaciones posibles de los caracteres de una cadena.
+
+pista:
+Tomar un carácter y generar combinaciones con el resto.

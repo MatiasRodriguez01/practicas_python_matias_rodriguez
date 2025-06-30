@@ -1,0 +1,5 @@
+# Imprimir recursivamente una pirámide de n niveles de asteriscos.
+
+pista:
+Se imprime una línea con nivel asteriscos y se llama para el siguiente.
+

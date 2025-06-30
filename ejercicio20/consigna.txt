@@ -1,0 +1,4 @@
+# - Generar todas las permutaciones posibles de una lista.
+
+pista:
+Intercambiar un elemento con los demás y llamar recursivamente.

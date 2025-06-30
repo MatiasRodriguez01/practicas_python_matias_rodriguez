@@ -1,0 +1,4 @@
+# - Determinar recursivamente si un número es primo.
+
+Cómo se lleva a cabo:
+Verificar divisibilidad desde 2 hasta n-1.

@@ -1,0 +1,4 @@
+# - Verificar recursivamente si un elemento está en una lista.
+
+pista:
+Comparar el primer elemento, si no coincide, llamar con el resto.

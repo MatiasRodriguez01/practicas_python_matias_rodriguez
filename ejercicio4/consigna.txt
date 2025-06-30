@@ -1,0 +1,4 @@
+# - Hacer una función recursiva para calcular a^b.
+
+pista:
+Multiplica a por a^(b-1) hasta que b sea 0
